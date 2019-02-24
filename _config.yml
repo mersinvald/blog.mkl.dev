@@ -12,3 +12,5 @@ github_username: mersinvald # Your github handle
 highlighter: rouge
 
 root: "https://blog.mkl.dev" # Not really sure this is useful, need to cross check with blog writers :)
+
+theme: jekyll-theme-midnight
