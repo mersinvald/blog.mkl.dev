@@ -1,14 +1,14 @@
 # Site settings
-title: Your blog title goes here
+title: mersinvald's blog
 description: >
-  Your blog description
-baseurl: "/rust-lang-blog-boilerplate" # should be / if you build a global github page (eg o0ignition0o.github.io)
-url: "https://o0Ignition0o.github.io" # The blog url you want to choose (you can use a github.io one, or pick your own hosted url :))
-logo: "https://www.rust-lang.org/logos/rust-logo-64x64-blk.png" # This one is used as blog logo
-twitter_username: o0ignition0o # Your twitter handle
-github_username: o0Ignition0o # Your github handle
+  Rust, Web, Async, Blockchain and The Dark Size of The Force
+baseurl: "/" # should be / if you build a global github page (eg o0ignition0o.github.io)
+url: "https://blog.mkl.dev" # The blog url you want to choose (you can use a github.io one, or pick your own hosted url :))
+logo: "https://s.gravatar.com/avatar/fbc2137221663891b1e6affde8566823?s=64" # This one is used as blog logo
+twitter_username: mersinvald # Your twitter handle
+github_username: mersinvald # Your github handle
 
 # Build settings
 highlighter: rouge
 
-root: "https://check-out-my-awesome-blog.org" # Not really sure this is useful, need to cross check with blog writers :)
+root: "https://blog.mkl.dev" # Not really sure this is useful, need to cross check with blog writers :)
