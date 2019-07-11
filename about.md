@@ -15,5 +15,4 @@ I am a Rust enthusiast who enjoys taking part in creation of new products and ma
 
 [GitHub](https://github.com/mersinvald) | 
 [Twitter](https://twitter.com/mersinvald) |
-[LinkedIn](https://linkedin.com/in/mersinvald) |
-[me@mkl.dev](mailto:me@mkl.dev)
+[LinkedIn](https://linkedin.com/in/mersinvald)
