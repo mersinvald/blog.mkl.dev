@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Rust enthusiast who enjoys taking part in creation of new products and making them reliable and loved, an this is my blog!
-
-
-
-*DISCLAIMER: This blog expresses personal opinions only and is not in any way representative of position of my employers.*
-
+Universe is a big state, time is a function that mutates that state, and I'm a monkey-coded callback with weird side-effects. (c) Developers & OCD
 
 ### Contact me
 
